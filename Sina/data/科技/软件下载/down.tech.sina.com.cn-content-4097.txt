@@ -1,0 +1,47 @@
+发布公司：
+授权方式：
+软件评级：
+绿色认证：
+操作系统：Win8/7/Vista/10
+软件语言：多语系
+软件大小：43,772 KB
+更新日期：2017-07-04
+下载次数：
+关键字项：
+Google Chrome是由Google开发的一款设计简单、高效的Web浏览工具。
+此下载包括
+(Dev)、
+(Beta)、
+(Final)以及部分旧版。
+Google Chrome Canary版拥有新版 Chrome 的最新功能。
+预先警告：Canary版是专为开发者和早期用户设计的版本，有时可能会造成浏览器彻底当机。
+(.MSI封装)。
+Google Chrome的特点是简洁、快速。Google Chrome支持多标签浏览，每个标签页面都在独立的“沙箱”内运行，在提高安全性的同时，一个标签页面的崩溃也不会导致其他标签页面被关闭。此外，Google Chrome基于更强大的JavaScript V8引擎，这是当前Web浏览器所无法实现的。
+Google Chrome是一款开源软件，借鉴了苹果的WebKit(
+使用的引擎)、Mozilla的
+及其他相关应用。
+·Chrome浏览器基于开源的Webkit，其中包含
+。
+·Chrome提供了浏览器扩展框架，可以制作与
+类似的混合应用。
+·包含V8 Javascript虚拟机，这个多线程的虚拟机可以加速Javascript的执行。
+·具备隐私模式，可以让用户无需在本地机器上登录即可使用，这个功能与
+中的Incognito类似。
+·浏览器将内置防止“网络钓鱼”及恶意软件功能。
+Google Chrome也有
+和
+版本。
+下载
+版本。
+电话：010-82628888-5595　　欢迎批评指正
+|
+|
+|
+|
+|
+|
+|
+|
+Copyright © 1996 - 2017 SINA Corporation, All Rights Reserved
+新浪公司
+北京网通提供网络带宽

@@ -46,15 +46,16 @@ class SinaSpider(scrapy.Spider):
                 item['mid_link'] = mlink
 
                 m_filename = ori_filename + '/' + mtitle
+                item['mid_filename'] = m_filename
                 if not os.path.exists(m_filename):
                     mid_filename = os.makedirs(m_filename)
 
                 items.append(item)
                 # 发送每个小类的链接,并把大类小类的链接通过meta传送到response,回调函数使用
-                yield scrapy.Request(url=mlink, meta={'meta1':item}, callback=self.parse_mid)
+                # yield scrapy.Request(url=mlink, meta={'meta1':item}, callback=self.parse_mid)
 
-        # for item in items:
-            # yield scrapy.Request(url=item['mid_link'], meta={'meta1':item,'time':t1}, callback=self.parse_mid)
+        for item in items:
+            yield scrapy.Request(url=item['mid_link'], meta={'meta1':item}, callback=self.parse_mid)
 
 
     def parse_mid(self, response):
@@ -63,3 +64,66 @@ class SinaSpider(scrapy.Spider):
         # t2 = time.time()
         # print '*'*50
         # print t2-t1
+        # 抓取列表也的url
+        list_urls =  response.xpath('//ul/li//a/@href').extract()
+        list_title = response.xpath('//ul/li//a/text()').extract()
+        # print len(url_list)
+        items = []
+        for url in list_urls:
+            # print meta_1['mid_filename']
+            # print '*'*50
+            item = SinaItem()
+            # 大类
+            item['origin_title'] = meta_1['origin_title']
+            item['origin_link'] = meta_1['origin_link']
+            # 小类
+            item['mid_title'] = meta_1['mid_title']
+            item['mid_link'] = meta_1['mid_link']
+            item['mid_filename'] = meta_1['mid_filename']
+            # 列表页
+            # item['news_link'] = url if url.startswith(item['origin_link']) else item['origin_link']+url
+            item['news_link'] = url
+            item['lnews_title'] = list_title
+
+            items.append(item)
+
+        for item in items:
+            yield scrapy.Request(url=item['news_link'], meta={'meta2':item}, callback=self.parse_detail)
+
+
+    def parse_detail(self,response):
+        import re
+        meta2 = response.meta['meta2']
+
+
+        contents_list = response.xpath('//p/text()').extract()
+        contents = ''
+        title = response.url[7:-6] if len(response.url[7:-6])>10 else meta2['lnews_title']
+        # pattern = re.compile(r'.+?.cn/(.+/)')
+        # if len(response.url[20:-6]) > 5:
+        #     title = str(pattern.match(response.url).groups(1))
+        # else:
+        #     meta2['lnews_title']
+        # print title
+        title = title.replace('/','-')
+        # print title.encode('utf-8') + '*'*30
+        # print len(contents)
+        for content in contents_list:
+            if content.strip():
+                contents += content.strip() + '\n'
+
+                item = SinaItem()
+                # 大类
+                item['origin_title'] = meta2['origin_title']
+                item['origin_link'] = meta2['origin_link']
+                # 小类
+                item['mid_title'] = meta2['mid_title']
+                item['mid_link'] = meta2['mid_link']
+                item['mid_filename'] = meta2['mid_filename']
+                # 列表页
+                item['news_link'] = meta2['news_link']
+                # 详情页
+                item['news_content'] = contents
+                item['news_title'] = title
+
+                yield item

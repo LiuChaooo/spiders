@@ -1,0 +1,33 @@
+发布公司：Microsoft Corp.
+授权方式：
+软件评级：
+绿色认证：
+操作系统：Win8/7/Vista/XP/10
+软件语言：多语系
+软件大小：6,867 KB
+更新日期：2017-04-12
+下载次数：
+关键字项：
+Silverlight是一个跨浏览器的、跨平台的插件，为Web带来下一代媒体体验和丰富的交互式应用程序体验。
+做为微软出品的一个浏览器增强模块，它使得浏览器可以在HTML中渲染丰富的内容。它兼容于IE6和IE7/IE8，以及Firefox。
+Silverlight使用WMV格式，支持从低分辨率的移动媒体到全屏HD视频，并支持VC-1编码。
+Silverlight基于.NET Framework，更方便程序员进行开发，提供高速媒体编码、硬件加速、支持Windows Server “Longhorn”等特性。
+Silverlight的开发代号WPF/E全称为Windows Presentation Foundation Everywhere，是微软新Windows图形子系统“Windows Presentation Foundation”(代号Avalon)的一个子集。WPF/E基于跨浏览器网络技术，依赖XAML语言和JavaScript脚本创建页面，与Flash一样作为浏览器插件工作，同样能显示矢量图形、动画和视频，可以运行在多种操作系统甚至移动设备上。
+支持的操作系统：Windows 7, Windows Vista、Microsoft Windows XP Service Pack 3
+支持的浏览器及版本： Microsoft Internet Explorer 6, Windows Internet Explorer 7,8
+Mac版本支持：Mozilla Firefox, Safari
+最低系统需求：Intel Pentium III 450MHz或更高频率的处理器
+最少128MB内存
+Silverlight 5 Beta(Tools)适用于开发者更新试用。包括Silverlight 5 Beta Runtime和应用于Visual Studio 2010的SDK，以及Visual Studio 2010 Service Pack 1的有关更新。
+电话：010-82628888-5595　　欢迎批评指正
+|
+|
+|
+|
+|
+|
+|
+|
+Copyright © 1996 - 2017 SINA Corporation, All Rights Reserved
+新浪公司
+北京网通提供网络带宽

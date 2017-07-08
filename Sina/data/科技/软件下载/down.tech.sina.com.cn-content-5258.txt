@@ -1,0 +1,39 @@
+发布公司：Microsoft Corp.
+授权方式：
+软件评级：
+绿色认证：
+操作系统：Win7/2008/Vista/2003
+软件语言：简体中文
+软件大小：319,771 KB
+更新日期：2011-10-09
+下载次数：
+关键字项：
+Microsoft SQL Server 2008 Service Pack 3 (SP3) 现在可供下载。我们不仅控制着产品更改，而且还投入了很大的力量来简化 Service Pack 的部署和管理。对于客户来说，Microsoft SQL Server 2008 Service Pack 3 中有这样几项重要改进：
+从 SQL Server 的旧版本升级到 SQL Server 2008 SP3 的过程体验得到了改进。另外，我们增强了安装体验的性能和可靠性。
+在 SQL Server Integration Services 日志中，现在能看到在数据流中发送的总行数。
+在启用了“缩减数据库”选项的情况下创建维护计划时的警告信息得到了改进。
+在启用了透明数据加密的情况下解决数据库问题，而且即使删除了证书也能使用数据库。
+在 DTA(数据库调节顾问)引用经过索引的“空间数据类型”列时，查询结果经过了优化。
+用户在并行执行计划中使用“序列函数”(如 Row_Numbers())可获得优异的体验。
+Microsoft SQL Server 2008 Service Pack 2 不是安装 SQL Server 2008 Service Pack 3 的先决条件。可以使用这些包升级以下 SQL Server 2008 版本：
+Enterprise
+Standard
+Evaluation
+开发人员
+Workgroup
+SQL Server 2008 SP3 包含 SQL Server 2008 SP2 累积更新包 1 至 4 的累积更新，以及对通过客户反馈平台所收集问题的修复。它包括可支持性增强以及通过 Windows 错误报告收集的问题。
+支持的操作系统：Windows 7;Windows Server 2003;Windows Server 2008;Windows Server 2008 R2;Windows Vista                Windows 7; Windows8, Windows Server 2003 Service Pack 2 和 R2;Windows Server 2008 Service Pack 1 和 Service Pack 2;Windows Server 2008 R2;Windows Vista Service Pack 1 和 Service Pack2;Windows XP Service Pack 332 位系统 (x86)具有 Intel Pentium III 600 MHz(或同等性能的兼容处理器)或速度更快的处理器(建议使用 1 GHz 或速度更快的处理器)的 PC64 位系统(x64、ia64)1 GHz 或速度更快的处理器最低 512 MB 的 RAM(建议使用 1 GB 或更高的 RAM)675 MB 可用硬盘空间
+发布日期：2011/10/6
+语言：中文(简体)
+电话：010-82628888-5595　　欢迎批评指正
+|
+|
+|
+|
+|
+|
+|
+|
+Copyright © 1996 - 2017 SINA Corporation, All Rights Reserved
+新浪公司
+北京网通提供网络带宽

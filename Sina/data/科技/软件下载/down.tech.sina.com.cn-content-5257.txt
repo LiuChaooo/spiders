@@ -1,0 +1,30 @@
+发布公司：Waterfox
+授权方式：
+软件评级：
+绿色认证：
+操作系统：Win8/7/Vista/XP/10
+软件语言：英文
+软件大小：79,443 KB
+更新日期：2017-06-01
+下载次数：
+关键字项：
+Waterfox是一个纯64位版的火狐浏览器，它使用Firefox官方源码，专门为64位Windows操作系统优化编译而成。Waterfox内置了最新Flash、Java和Silverlight插件的64位版本。支持任何官方火狐支持的扩展。(新浪)
+新浪提示1：如果提示msvcr100.dll错误，需要安装
+或安装
+(点击直接下载)
+提示2：Waterfox使用原版Firefox的配置文件，因此，在卸载Waterfox时请
+勾选“移除个人数据”选项。
+Waterfox也有
+版本。
+电话：010-82628888-5595　　欢迎批评指正
+|
+|
+|
+|
+|
+|
+|
+|
+Copyright © 1996 - 2017 SINA Corporation, All Rights Reserved
+新浪公司
+北京网通提供网络带宽

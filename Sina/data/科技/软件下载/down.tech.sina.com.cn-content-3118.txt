@@ -1,0 +1,37 @@
+发布公司：nVIDIA
+授权方式：
+软件评级：
+绿色认证：
+操作系统：Win8/7/Vista
+软件语言：多语系
+软件大小：323,752 KB
+更新日期：2017-05-23
+下载次数：
+关键字项：
+nVidia 发布 GeForce 官方驱动。
+、
+、
+-提高了Company of Heroes DirectX 10版本性能
+-提高了单GPU和NVIDIA SLI 3D性能
+-修正了一些游戏和应用程序的兼容性问题
+-驱动支持以下3D功能：:
+单GPU支持：
+支持GeForce 6/7/8 系列GPU DirectX 9功能
+支持GeForce系列GPU DirectX 10功能
+支持GeForce 6/7/8 GPU OpenGL功能
+NVIDIA SLI支持：
+支持GeForce 6/7/8 系列GPU DirectX 9功能
+支持GeForce 8800系列DirectX 10功能
+支持GeForce 6/7/8 GPU OpenGL功能
+电话：010-82628888-5595　　欢迎批评指正
+|
+|
+|
+|
+|
+|
+|
+|
+Copyright © 1996 - 2017 SINA Corporation, All Rights Reserved
+新浪公司
+北京网通提供网络带宽

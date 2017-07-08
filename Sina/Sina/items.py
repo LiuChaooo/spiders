@@ -15,8 +15,10 @@ class SinaItem(scrapy.Item):
     # 小类
     mid_title = scrapy.Field()
     mid_link = scrapy.Field()
+    mid_filename = scrapy.Field()
     # 列表页
-    news_title = scrapy.Field()
+    lnews_title = scrapy.Field()
     news_link = scrapy.Field()
     # 详情页
     news_content = scrapy.Field()
+    news_title = scrapy.Field()

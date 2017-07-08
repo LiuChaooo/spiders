@@ -1,0 +1,39 @@
+发布公司：Microsoft Corp.
+授权方式：
+软件评级：
+绿色认证：
+操作系统：Win8/7/10
+软件语言：简体中文
+软件大小：3,375,634 KB
+更新日期：2017-05-18
+下载次数：
+关键字项：
+注：此版本为预览版。继续下载前请仔细阅读激活和使用指南以及使用须知。
+提前规划。在安装此预览版之前备份您的文件和设置。安装之后，Windows 将会提示您进行激活。
+要使用 Windows 10 Insider Preview，您必须使用 Microsoft 帐户登录计算机。最终版本发布时将提供创建本地帐户的选项。
+如果您决定使用提供的某个 ISO 文件安装 Windows 10 Insider Preview，您将无法卸载它。此外，安装 Windows 10 Insider Preview 之后，您将无法使用计算机上的恢复分区返回到之前的 Windows 版本。必须对之前的操作系统执行全新安装，而且需要重新安装所有程序和数据。
+Windows 10 Insider Preview是预发布软件，在进行商业发布之前可能会经历重大修改。此版本的目标用户是有意代表其组织试用新版本 Windows 的 IT 专业人员。Microsoft 对此处提供的信息不做任何明示或暗示的保证。某些产品特性和功能可能需要用到其他硬件或软件。如果您不是 IT 专业人员或者并非企业电脑或设备的专业管理者，我们不建议您安装此预览版。我们也不建议您在主要的家用或办公电脑上安装此预览版。
+Windows 10 Insider Preview 可用的设备和程序应与 Windows 10 相同。在某些情况下，设备或程序可能不工作或需要更新，或者您可能需要卸载某些程序，安装预览版后再重新安装这些程序。
+Windows RT 设备上不支持 Windows 10 Insider Preview。
+对于 Windows 10 Insider Preview 的 64 位安装，有少部分旧电脑可能因不支持 CMPXCHG16b、PrefetchW 和 LAHF/SAHF 而无法进行安装。
+要使用触控功能，需要支持多点触控的平板电脑或显示器。
+要访问 Windows 应用商店以及下载和运行应用程序，需要有活动的 Internet 连接、最低 1024 x 768 的屏幕分辨率和一个 Microsoft 帐户。
+下载 Windows 10 Technical Preview for Enterprise 可能需要花费数小时的时间。具体时间取决于您的提供商、带宽和流量(可能需要支付 ISP 费用)。有关技术问题，请访问 Windows 10 Insider Preview 论坛。
+Windows 10 Insider Preview与Windows 8.1的硬件需求相同：
+处理器：1 GHz或更高
+内存： 1 GB (32-bit) 或 2 GB (64-bit)
+剩余硬盘空间： 16 GB
+显示卡： Microsoft DirectX 9和WDDM
+一个微软账号和互联网连接
+电话：010-82628888-5595　　欢迎批评指正
+|
+|
+|
+|
+|
+|
+|
+|
+Copyright © 1996 - 2017 SINA Corporation, All Rights Reserved
+新浪公司
+北京网通提供网络带宽

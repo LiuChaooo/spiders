@@ -1,0 +1,29 @@
+发布公司：Microsoft Corp.
+授权方式：
+软件评级：
+绿色认证：
+操作系统：Win7/2008/Vista/2003/XP
+软件语言：简体中文
+软件大小：794 KB
+更新日期：2011-03-11
+下载次数：
+关键字项：
+此下载会安装 Visual Studio 2010 Service Pack 1 (SP1)。此 Service Pack 发行版解决了通过客户和合作伙伴反馈以及内部测试发现的问题。这些 Service Pack 为 Visual Studio 用户提高了响应性和稳定性，并完成了客户请求的某些具有重大影响的方案。可在此处找到此 Service Pack 附带的更新的完整列表。
+Visual Studio 2010 Service Pack 1 (SP1) 将对已安装的 Visual Studio 2010 的所有版本和语言进行升级。如果您在安装 SP1 后安装了任何其他版本或语言的 Visual Studio 2010，则必须重新应用 SP1。
+如果您安装了 Visual Studio 2010 Service Pack 1 Beta，则应先将其卸载，然后再安装此发行版的 SP1。
+此安装程序适用于 Visual Studio 2010 的所有版本(学习版、专业版、高级专业版、旗舰版、专业测试工具版)。
+Windows 7;Windows Server 2003 R2 (32-Bit x86)；Windows Server 2003 R2 x64 editions;Windows Server 2003 Service Pack 2;Windows Server 2008 R2;Windows Server 2008 Service Pack 2;Windows Vista Service Pack 2;Windows XP Service Pack 3
+发布日期：2011/3/3
+语言：中文(简体)
+电话：010-82628888-5595　　欢迎批评指正
+|
+|
+|
+|
+|
+|
+|
+|
+Copyright © 1996 - 2017 SINA Corporation, All Rights Reserved
+新浪公司
+北京网通提供网络带宽

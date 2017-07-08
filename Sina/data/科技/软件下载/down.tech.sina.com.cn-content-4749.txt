@@ -1,0 +1,40 @@
+发布公司：Microsoft Corp.
+授权方式：
+软件评级：
+绿色认证：
+操作系统：Win7
+软件语言：多语系
+软件大小：550,717 KB
+更新日期：2011-02-23
+下载次数：
+关键字项：
+Windows 7 和 Windows Server 2008 R2 SP1 可帮助您的 PC 和服务器保持最新支持级别。它还提供对 Windows 操作系统 (OS) 的持续改进，包含以前通过 Windows Update 提供的更新，以及基于客户和合作伙伴的反馈而对 Windows 7 和 Windows Server 2008 R2 平台做出的持续增量更新。这使得组织机构只需部署单组更新程序即可。
+确保您的 PC 获得支持并处于最新状态
+获取对 Windows 7 平台的持续更新
+在某一时刻轻松部署累积更新
+满足用户对更高的业务移动性的要求
+提供一整套虚拟化创新
+提供更简单的 Service Pack 部署模型，以获得更高的 IT 效率
+为了下载并安装 Windows 7 和 Windows Server 2008 R2 SP1，您当前必须已安装了正式发行版 (RTM) 的 Windows 7 或 Windows Server 2008 R2。
+如果您的计算机上先前已安装 Windows 7 和 Windows Server 2008 R2 SP1 的预发行版本，则必须卸载该版本，然后才能安装 SP1。
+安装 Windows 7 和 Windows Server 2008 R2 SP1 时，可使用 Windows 7 和 Windows Server 2008 R2 初始版本中所提供的相同语言。
+支持的操作系统： Windows 7; Windows Server 2008 R2
+发布日期：2011/2/22
+语言： 中文(简体)
+- 此 DVD 映像包含所有体系结构的独立更新。
+- 此应用程序将 Sp1 安装到运行 Windows 7 的 32 位计算机上。
+- 此应用程序将 Sp1 安装到运行 Windows 7 或 Windows Server 2008 R2 的 64 位计算机上。
+，您必须先卸载 Service Pack 1 Release Candidate，然后才能安装未来版本(包括最终版本)的 Service Pack。
+不支持从测试版或预发布版本进行升级。
+电话：010-82628888-5595　　欢迎批评指正
+|
+|
+|
+|
+|
+|
+|
+|
+Copyright © 1996 - 2017 SINA Corporation, All Rights Reserved
+新浪公司
+北京网通提供网络带宽

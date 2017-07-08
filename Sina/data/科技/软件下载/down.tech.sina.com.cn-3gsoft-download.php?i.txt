@@ -1,0 +1,45 @@
+文件类型：上传下载
+软件厂商：Google
+版本信息：6.7.13.E-all [0] 2920566
+文件大小：16.09 MB
+发布时间：2016-06-02
+推荐度：
+Google已经将Android Market电子市场统一升级更名为Google Play Store，并且启用了https://play.google.com/全新域名作为网页版电子市场的主页，同时Android手机的官方电子市场客户端也进行了升级，并更名为Play商店(Play Store)。
+现在不用等待自动升级了，并且无需ROOT权限，但是需要系统为Android 2.2以上版本，并开启未知来源应用安装选项。
+如果安装不成功，请使用
+或其它文件管理器将vending.apk替换并赋予权限。
+部分用户可能需要安装Google Play Services(Google Play服务架构)方可运行Play Store，如果您遇到问题，可
+。
+：
+				   					  								   							  	华为 P10,
+														  	华为 Mate 9 Pro,
+														  	华为 Mate 9,
+														  	三星 GALAXY S8,
+														  	荣耀9 高配版,
+														  	华为 P10 Plus,
+														  	vivo X9,
+														  	OPPO R11,
+														  	小米 6,
+														  	华为 P9 标准版全网通,
+														  	荣耀8 标准版,
+														  	OPPO R9s,
+														  	三星 GALAXY S8+,
+														  	诺基亚6,
+														  	OPPO R11 Plus,
+														  	华为 nova 2,
+														  	HTC U11,
+														  	一加手机5,
+														  	OPPO A59s,
+														  	小米MIX,
+														...
+电话：010-82628888-5595　　欢迎批评指正
+|
+|
+|
+|
+|
+|
+|
+|
+Copyright © 1996 - 2012 SINA Corporation, All Rights Reserved
+新浪公司

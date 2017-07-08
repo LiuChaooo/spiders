@@ -7,5 +7,11 @@
 
 
 class SinaPipeline(object):
+
     def process_item(self, item, spider):
+        # if item['news_content'].strip():
+        f = open(item['mid_filename'] + '/' + item['news_title'] + '.txt', 'w')
+        f.write(item['news_content'].encode('utf-8'))
+        f.close()
+
         return item
